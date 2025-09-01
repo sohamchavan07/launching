@@ -70,7 +70,7 @@ const Index = () => {
                 <div className="mx-auto w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center">
                   <Shield className="h-6 w-6 text-primary" />
                 </div>
-                <h3 className="text-lg font-semibold">Bank-Grade Security</h3>
+                <h3 className="text-lg font-semibold">Security</h3>
                 <p className="text-muted-foreground text-sm">
                   Enterprise-level encryption and compliance with industry standards
                 </p>
@@ -139,7 +139,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="container mx-auto px-4 py-8 mt-16 border-t border-border">
         <div className="text-center text-muted-foreground">
-          <p>&copy; 2024 Truebg. All rights reserved.</p>
+          <p>&copy; 2025 Truebg. All rights reserved.</p>
         </div>
       </footer>
     </div>
